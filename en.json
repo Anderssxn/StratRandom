@@ -1,0 +1,18 @@
+{
+    "strat": {
+        "strategy": "Scout Boys",
+        "description": "If the team has enough money. They will buy scouts and full shield only (no abilities allowed)"
+      },
+    "strat2": {
+        "strategy": "Silent Kill",
+        "description": "Team will kill the enemy team without any communication and using supressed weapons only"
+      },
+    "strat3": {
+        "strategy": "Jett Wanna be",
+        "description": "knives round ;)"
+      },
+    "strat4": {
+        "strategy": "Rush, Rush, Rush!",
+        "description": "Your team will rush the enemy team and kill them with spectre only (no abilities allowed)"
+      }
+}
